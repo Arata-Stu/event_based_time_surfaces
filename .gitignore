@@ -4,3 +4,4 @@ event-Python
 datasets
 *.swp
 *.pyc
+datasets/mnist/
