@@ -13,13 +13,13 @@ Lagorce X, Orchard G, Galluppi F, Shi BE, Benosman RB. HOTS: A Hierarchy of Even
 Download the event-Python library from Github:
 
 ~~~
-git clone https://github.com/gorchard/event-Python.git event_Python
-touch event_Python/__init__.py
+git clone https://github.com/Arata-Stu/event_based_time_surfaces.git
 ~~~
 
 Install dependencies:
 ~~~
-conda env create -f environment.yaml
+conda create -n <env_name>
+conda activate env_name
 ~~~
 
 Download the N-MNIST dataset from *https://www.garrickorchard.com/datasets/n-mnist* and place in *./datasets/mnist/*
