@@ -32,15 +32,3 @@ jupyter notebook train_and_test_hots_model.ipynb
 ~~~
 
 The training results for each of the layers will be shown. Here are screenshots from each of the layers:
-
-### Time surface prototypes for layer 1
-
-![train_time_surface_prototypes_for_layer_1](docs/train_time_surface_prototypes_for_layer_1.png)
-
-### Time surface prototypes for layer 2
-
-![train_time_surface_prototypes_for_layer_2](docs/train_time_surface_prototypes_for_layer_2.png)
-
-### Time surface prototypes for layer 3
-
-![train_time_surface_prototypes_for_layer_3](docs/train_time_surface_prototypes_for_layer_3.png)
